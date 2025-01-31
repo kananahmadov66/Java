@@ -1,0 +1,18 @@
+	Student
+
+-name: String
+-surname: String
+-age: int
+-id: int
+-salary: double
+
+----------------
+
++Student(name: String, surname: String, age: int, id: int, salary: double)
++getName: String
++getSurname: String
++getAge: int
++getId: int
++getSalary: double
++printStudentInformation: void
++toString: String
