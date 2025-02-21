@@ -112,7 +112,7 @@ public class Pet
     }
     @Override
     protected void finalize() throws Throwable {
-        System.out.println("Human object is removed.");
+        System.out.println("Pet object is removed.");
     }
 
 
