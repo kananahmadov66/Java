@@ -1,7 +1,7 @@
 public class Fish extends Pet {
     public Fish() {
         super();
-        this.species = Species.FISH;  // Set species to Fish
+        this.species = Species.FISH;
     }
 
     @Override
