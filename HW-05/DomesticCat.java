@@ -1,7 +1,7 @@
 public class DomesticCat extends Pet implements Foulable {
     public DomesticCat() {
         super();
-        this.species = Species.CAT;  // Set species to Cat
+        this.species = Species.CAT;
     }
 
     @Override
