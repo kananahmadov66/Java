@@ -11,5 +11,5 @@ public abstract class Human {
 
     public abstract void greetPet();
 
-    public abstract void uniqueMethod(); // For example, makeup for women, repairCar for men
+    public abstract void uniqueMethod(); 
 }
