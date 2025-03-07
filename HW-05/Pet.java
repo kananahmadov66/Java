@@ -2,7 +2,7 @@ public abstract class Pet {
     protected Species species;
 
     public Pet() {
-        this.species = Species.UNKNOWN;  // Default to UNKNOWN
+        this.species = Species.UNKNOWN;
     }
 
     public abstract void respond();
